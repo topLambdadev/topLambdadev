@@ -16,7 +16,7 @@
 🏆React Native, Flutter
 🏆Blockchain
 <br><br>
-## <b>😇 My Github Stats</b>:
+<b>😇 My Github Stats</b>:
 <p align="left"><img src="https://komarev.com/ghpvc/?username=lambdadev007&label=Profile%20views&color=0e75b6&style=flat" alt="darkrut" /> </p>
 <p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=lambdadev007&column=7&theme=onedark" alt="lambdadev007" /></p>
 <p align="center">
@@ -25,7 +25,6 @@
 </p>
 <a href="https://github.com/lambdadev007">
   <img alt="lambdadev007's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lambdadev007&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
-</a>
-  
+</a>  
 </p>
 </details>
