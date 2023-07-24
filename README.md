@@ -16,9 +16,9 @@
 🏆React Native, Flutter
 🏆Blockchain
 <br><br>
-## <b>💽 Github Stats 💽</b>:
+## <b>Github Stats </b>:
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maxLambdadev&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=topLambdadev&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
 </p>
 </p>
 </details>
