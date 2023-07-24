@@ -16,9 +16,9 @@
 🏆React Native, Flutter
 🏆Blockchain
 <br><br>
-<b>😇 My Github Stats</b>:
-<a href="https://github.com/topLambdadev">
-  <img alt="lambdadev007's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lambdadev007&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
-</a>  
+## <b>💽 Github Stats 💽</b>:
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maxLambdadev&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
+</p>
 </p>
 </details>
