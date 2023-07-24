@@ -17,12 +17,7 @@
 🏆Blockchain
 <br><br>
 <b>😇 My Github Stats</b>:
-<p align="left"><img src="https://komarev.com/ghpvc/?username=lambdadev007&label=Profile%20views&color=0e75b6&style=flat" alt="darkrut" /> </p>
-<p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=lambdadev007&column=7&theme=onedark" alt="lambdadev007" /></p>
-<p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lambdadev007&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
-</p>
-<a href="https://github.com/lambdadev007">
+<a href="https://github.com/topLambdadev">
   <img alt="lambdadev007's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lambdadev007&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
 </a>  
 </p>
